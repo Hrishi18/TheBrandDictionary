@@ -1,0 +1,2298 @@
+[
+    {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/japan.svg",
+                    "bColor": "otherColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/united-states.svg",
+                    "bColor": "otherColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/china.svg",
+                    "bColor": "chinaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/england.svg",
+                    "bColor": "otherColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/china.svg",
+                    "bColor": "chinaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+    {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+
+ {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+
+ {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+
+ {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+
+ {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+
+ {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+
+    {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    },
+      {
+        "0": {
+            "0": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "stu",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "1": {
+                "0": {
+                    "bName": "wxy",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "2": {
+                "0": {
+                    "bName": "jkl",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "3": {
+                "0": {
+                    "bName": "ghi",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "4": {
+                "0": {
+                    "bName": "mno",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "xyz",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "5": {
+                "0": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "abc",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "6": {
+                "0": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            },
+            "7": {
+                "0": {
+                    "bName": "uvw",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "1": {
+                    "bName": "rst",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "2": {
+                    "bName": "opq",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                },
+                "3": {
+                    "bName": "lmn",
+                    "bImage": "assets/images/.png",
+                    "bFlag": "assets/icons/india.svg",
+                    "bColor": "indiaColor",
+                    "bDes": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+                }
+            }
+            
+        },
+        "1": [
+            "Talc",
+            "Toothpaste",
+            "Soap",
+            "Detergent",
+            "Toilet Cleaner",
+            "Shampoo",
+            "Oil",
+            "Moisturizer"
+        ]
+    }
+
+
+]
