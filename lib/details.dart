@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'constants.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'brands.dart';
 import 'dart:convert';
 
 class LoadJsonAgain extends StatelessWidget {
@@ -85,9 +84,11 @@ class _DetailsScreenState extends State<DetailsScreen> {
         ),
         elevation: 0.0,
         title: Text(
-          'The Brand Dictionary',
+          'Brand Dictionary',
           style: TextStyle(
             color: kSecondaryColor,
+            fontFamily: 'AbrilFatface',
+            fontSize: 25.0,
           ),
         ),
       ),
@@ -110,22 +111,20 @@ class _DetailsScreenState extends State<DetailsScreen> {
                     tag:
                         '${mydata[value]["0"][selectedIndex.toString()][k.toString()]["bName"]}',
                     child: Container(
-                      //color: Colors.green,
                       margin: EdgeInsets.fromLTRB(0.0, 20.0, 0.0, 0.0),
                       height: size.width * 0.6,
                       width: size.width * 0.6,
-                      //padding: EdgeInsets.all(50.0),
                       child: Image.asset(
-                        'assets/images/vodafone.png',
+                        mydata[value]["0"][selectedIndex.toString()]
+                            [k.toString()]["bImage"],
                         height: size.width * 0.5,
                         width: size.width * 0.5,
-                        fit: BoxFit.fill,
+                        fit: BoxFit.contain,
                       ),
                     ),
                   ),
                   Container(
                     alignment: Alignment.center,
-                    //color: Colors.red,
                     height: 80.0,
                     width: 210.0,
                     padding: EdgeInsets.all(20.0),
@@ -134,7 +133,6 @@ class _DetailsScreenState extends State<DetailsScreen> {
                       mydata[value]["0"][selectedIndex.toString()][k.toString()]
                           ["bFlag"],
                       fit: BoxFit.contain,
-                      //alignment: Alignment.bottomLeft,
                     ),
                   ),
                   Padding(
@@ -146,8 +144,8 @@ class _DetailsScreenState extends State<DetailsScreen> {
                             [k.toString()]["bName"],
                         style: TextStyle(
                           color: Colors.black,
-                          fontFamily: 'Times New Roman',
-                          fontSize: 40.0,
+                          fontFamily: 'Aclonica',
+                          fontSize: 30.0,
                           fontWeight: FontWeight.bold,
                         ),
                         textAlign: TextAlign.center,
@@ -161,8 +159,8 @@ class _DetailsScreenState extends State<DetailsScreen> {
                           ["bDes"],
                       style: TextStyle(
                         color: Colors.black,
-                        fontFamily: 'Times New Roman',
-                        fontSize: 16.0,
+                        fontFamily: 'Aclonica',
+                        fontSize: 15.0,
                       ),
                       textAlign: TextAlign.center,
                     ),
@@ -172,13 +170,13 @@ class _DetailsScreenState extends State<DetailsScreen> {
             ),
             Expanded(
               child: Container(
-                alignment: Alignment.center,               
+                alignment: Alignment.center,
                 child: Text(
                   myRecText,
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 30.0,
-                    fontFamily: 'Times New Roman',
+                    fontFamily: 'Aclonica',
                     color: myRecTextColor,
                   ),
                 ),

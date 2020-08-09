@@ -45,15 +45,14 @@ class _BrandsState extends State<Brands> {
   _BrandsState(this.value, this.mydata);
 
   Widget brandCard(int number) {
-    //print(mydata[value]["0"][selectedIndex.toString()][k.toString()]["bColor"]);
-
-    if (mydata[value]["0"][selectedIndex.toString()][k.toString()]["bColor"] == 'indiaColor') {
+    if (mydata[value]["0"][selectedIndex.toString()][k.toString()]["bColor"] ==
+        'indiaColor') {
       myBrandColor = indiaColor;
-    }
-    else if(mydata[value]["0"][selectedIndex.toString()][k.toString()]["bColor"]== 'otherColor'){
+    } else if (mydata[value]["0"][selectedIndex.toString()][k.toString()]
+            ["bColor"] ==
+        'otherColor') {
       myBrandColor = otherColor;
-    }
-    else{
+    } else {
       myBrandColor = chinaColor;
     }
     return InkWell(
@@ -73,12 +72,12 @@ class _BrandsState extends State<Brands> {
               margin: EdgeInsets.symmetric(
                   horizontal: kDefaultPadding / 2,
                   vertical: kDefaultPadding / 2),
-              height: 100,
+              height: 110,
               child: Stack(
                 alignment: Alignment.bottomCenter,
                 children: <Widget>[
                   Container(
-                    height: 100,
+                    height: 110,
                     decoration: BoxDecoration(
                       color: myBrandColor,
                       borderRadius: BorderRadius.only(
@@ -111,10 +110,11 @@ class _BrandsState extends State<Brands> {
                       child: Container(
                         //color: Colors.black,
                         padding: EdgeInsets.fromLTRB(5.0, 20.0, 30.0, 20.0),
-                        height: 100,
+                        height: 110,
                         width: 160,
                         child: Image.asset(
-                          'assets/images/vodafone.png',
+                          mydata[value]["0"][selectedIndex.toString()]
+                              [k.toString()]["bImage"],
                           fit: BoxFit.contain,
                         ),
                       ),
@@ -126,7 +126,7 @@ class _BrandsState extends State<Brands> {
                     child: Container(
                       alignment: Alignment.topLeft,
                       //color: Colors.red,
-                      height: 50.0,
+                      height: 56.0,
                       width: 210.0,
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.end,
@@ -141,14 +141,15 @@ class _BrandsState extends State<Brands> {
                                   [k.toString()]["bName"],
                               style: TextStyle(
                                 fontSize: 20.0,
-                                fontFamily: 'Times New Roman',
+                                fontFamily: 'Aclonica',
                                 color: Colors.black,
                               ),
                               textAlign: TextAlign.left,
                             ),
                           ),
                           Padding(
-                            padding: const EdgeInsets.only(left: 20.0),
+                            padding:
+                                const EdgeInsets.only(left: 20.0, top: 3.0),
                             child: Container(
                               color: kSecondaryColor,
                               height: 1.0,
@@ -197,7 +198,8 @@ class _BrandsState extends State<Brands> {
         ),
         elevation: 0.0,
         title: Text(
-          'The Brand Dictionary',
+          'Brand Dictionary',
+          style: TextStyle(fontFamily: 'AbrilFatface', fontSize: 25.0),
         ),
       ),
       body: Column(
@@ -253,9 +255,9 @@ class _BrandsState extends State<Brands> {
                           borderRadius: BorderRadius.circular(12),
                         ),
                         child: Text(
-                          //'gh'
-
                           mydata[value]["1"][index],
+                          style:
+                              TextStyle(fontFamily: 'Aclonica', fontSize: 20.0),
                         ),
                       ),
                     ),
@@ -264,16 +266,6 @@ class _BrandsState extends State<Brands> {
               ],
             ),
           ),
-          // SizedBox(
-          //   height: kDefaultPadding / 2,
-          // ),
-          // Text(
-          //   value.toString(),
-          //   style: TextStyle(
-          //     fontSize: 30.0,
-          //     color: Colors.black,
-          //   ),
-          // ),
           Expanded(
             child: SingleChildScrollView(
               child: Column(

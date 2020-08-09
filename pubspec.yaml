@@ -23,6 +23,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  shared_preferences: "0.5.8"
+  after_layout: "1.0.7+2"
+  url_launcher: "5.5.0"
+  package_info: "0.4.1"
+  splashscreen: "1.2.0"
+  share: "0.6.4+3"
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -34,8 +41,17 @@ dependencies:
  
 
 dev_dependencies:
+  #flutter_launcher_icons: "^0.7.3"
   flutter_test:
     sdk: flutter
+
+# flutter_icons:
+#   android: true
+#   ios: true 
+#   image_path_ios: "assets/images/newlogo.jpg"
+#   image_path_android: "assets/images/newlogo.jpg"
+#   adaptive_icon_background: "#FFFFFF"
+#   adaptive_icon_foreground: "assets/images/bdlogonewdesign.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -67,10 +83,17 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  fonts:
+    - family: AbrilFatface
+      fonts:
+        - asset: assets/fonts/AbrilFatface-Regular.ttf
+    - family: Aclonica
+      fonts:
+        - asset: assets/fonts/Aclonica-Regular.ttf     
+    - family: YatraOne
+      fonts:
+        - asset: assets/fonts/YatraOne-Regular.ttf
+   
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

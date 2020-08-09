@@ -17,31 +17,22 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
 
   List<String> catImage = [
     'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    'assets/images/car.jpg',
-    'assets/images/clothes.jpg',
-    
+    'assets/images/footwear.jpg',
+    'assets/images/fashionaccessories.jpg',
+    'assets/images/jewellery.jpg',
+    'assets/images/beautyandgrooming.jpg',
+    'assets/images/personalcare.jpg',
+    'assets/images/babycare.jpg',
+    'assets/images/households.jpg',
+    'assets/images/cookingessentials.jpg',
+    'assets/images/snacksandbeverages.jpg',
+    'assets/images/consumerelectronics.jpg',
+    'assets/images/pharmacy.jpg',
+    'assets/images/sportsaccessories.jpg',
+    'assets/images/stationery.jpg',
+    'assets/images/travelaccessories.jpg',
+    'assets/images/transportation.jpg',
+    'assets/images/telecom.jpg',
   ];
 
   List<String> catName = [
@@ -49,61 +40,20 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
     'Footwear',
     'Fashion Accessories',
     'Jewellery',
-    'Beauty and Grooming',   
+    'Beauty and Grooming',
     'Personal Care',
     'Baby Care',
-    'Households',    
+    'Households',
     'Cooking Essentials',
     'Snacks and Beverages',
-    'Pet Supplies',
-    'Health Care',
     'Consumer Electronics',
-    'Mobile Applications',
-    'Mobile Games',  
-    'Pharmacy',    
-    'Home Decor',
-    'Kitchen Ware',   
-    'Toys and Games',
-    'Sports and Fitness',
+    'Pharmacy',
+    'Sports Accessories',
     'Stationery',
-    'Travel Accessories', 
+    'Travel Accessories',
     'Transportation',
     'Telecom',
-    'Financial Institutions',   
-    
   ];
-
-  List<IconData> catIcon = [
-    
-    Icons.fitness_center,
-    Icons.calendar_today,
-    Icons.dashboard,
-    Icons.delete,
-    Icons.dashboard,
-    Icons.crop_portrait,
-    Icons.fitness_center,
-    Icons.calendar_today,
-    Icons.dashboard,
-    Icons.delete,
-    Icons.dashboard,
-    Icons.crop_portrait,
-    Icons.fitness_center,
-    Icons.calendar_today,
-    Icons.dashboard,
-    Icons.delete,
-    Icons.dashboard,
-    Icons.crop_portrait,
-    Icons.fitness_center,
-    Icons.calendar_today,
-    Icons.dashboard,
-    Icons.delete,
-    Icons.dashboard,
-    Icons.crop_portrait,
-    Icons.fitness_center,
-   
-  ];
-
-  //void Function(AnimationStatus) _statusListener;
 
   @override
   void initState() {
@@ -141,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
             image: AssetImage(catImage[number]),
             fit: BoxFit.cover,
             colorFilter: ColorFilter.mode(
-                Colors.black.withOpacity(0.5), BlendMode.srcOver),
+                Colors.black.withOpacity(0.6), BlendMode.srcOver),
           ),
         ),
         child: FlatButton(
@@ -161,13 +111,12 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Container(
-                  //color: Colors.red,
                   alignment: Alignment.centerLeft,
                   child: Text(
                     catName[number],
                     textAlign: TextAlign.left,
                     style: TextStyle(
-                      fontFamily: 'Times New Roman',
+                      fontFamily: "Aclonica",
                       fontSize: 30.0,
                       color: kTextColor,
                     ),
@@ -185,166 +134,206 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
 
-    return Scaffold(
-      drawer: MyDrawer(),
-      body: NotificationListener<ScrollNotification>(
-        onNotification: scrollListener,
-        child: Container(
-          height: double.infinity,
-          child: Stack(
-            children: <Widget>[
-              SingleChildScrollView(
-                child: Column(
-                  children: <Widget>[
-                    Container(
-                      height: size.height * 0.4,
-                      child: Stack(
-                        children: <Widget>[
-                          Container(
-                            height: size.height * 0.4 - 65,
-                            decoration: BoxDecoration(
-                              color: kPrimaryColor,
-                              borderRadius: BorderRadius.only(
-                                bottomRight: Radius.circular(100.0),
-                              ),
-                              boxShadow: [
-                                BoxShadow(
-                                  offset: Offset(0, 10),
-                                  blurRadius: 50,
-                                  color: kPrimaryColor.withOpacity(0.23),
-                                ),
-                              ],
-                            ),
-                          ),
-                          Padding(
-                            padding: const EdgeInsets.fromLTRB(
-                                15.0, 150.0, 15.0, 15.0),
-                            child: Container(
-                              child: Stack(
-                                children: <Widget>[
-                                  Padding(
-                                    padding: const EdgeInsets.fromLTRB(
-                                        20.0, 50.0, 20.0, 20.0),
-                                    child: Container(
-                                      alignment: Alignment.center,
-                                      child: TypeAheadField(
-                                        textFieldConfiguration:
-                                            TextFieldConfiguration(
-                                          controller: typeAheadController,
-                                          autofocus: false,
-                                          cursorColor: kPrimaryColor,
-                                          style: DefaultTextStyle.of(context)
-                                              .style
-                                              .copyWith(
-                                                  fontSize: 20.0,
-                                                  color: Colors.black,
-                                                  fontWeight: FontWeight.normal,
-                                                  fontFamily: 'Times New Roman',
-                                                  decoration:
-                                                      TextDecoration.none),
-                                          decoration: InputDecoration(
-                                            border: OutlineInputBorder(),
-                                          ),
-                                          maxLines: 1,
-                                        ),
-                                        suggestionsCallback: (pattern) async {
-                                          return catName
-                                              .where((item) => item
-                                                  .toLowerCase()
-                                                  .startsWith(
-                                                      pattern.toLowerCase()))
-                                              .toList();
-                                        },
-                                        itemBuilder: (context, suggestion) {
-                                          //print((catIcon.indexOf(suggestion)).toInt());
-                                          return ListTile(
-                                            leading: Icon(catIcon[
-                                                (catName.indexOf(suggestion))
-                                                    .toInt()]),
-                                            title: Text(
-                                              suggestion,
-                                              style: TextStyle(
-                                                color: Colors.black,
-                                              ),
-                                            ),
-
-                                            //  subtitle: Text('\$${suggestion['price']}'),
-                                          );
-                                        },
-                                        // transitionBuilder: (context, suggestion, controller){
-                                        //   return suggestionsBox;
-                                        // },
-                                        onSuggestionSelected: (suggestion) {
-                                          
-                                          Navigator.push(
-                                              context,
-                                              MaterialPageRoute(
-                                                builder: (context) => LoadJson(
-                                                    value: catName
-                                                        .indexOf(suggestion)),
-                                              ));
-                                            
-                                        },
-                                      ),
-                                      height: 55.0,
-                                      decoration: BoxDecoration(
-                                        color: kBackgroundColor,
-                                        borderRadius:
-                                            BorderRadius.circular(5.0),
-                                      ),
-                                    ),
-                                  ),
-                                  Padding(
-                                    padding: const EdgeInsets.fromLTRB(
-                                        22.0, 20.0, 20.0, 15.0),
-                                    child: Text(
-                                      'Search for any Brand Category',
-                                      style: TextStyle(
-                                        fontSize: 17.0,
-                                        fontFamily: 'Times New Roman',
-                                        color: kTextColor,
-                                      ),
-                                      textAlign: TextAlign.left,
-                                    ),
-                                  )
-                                ],
-                              ),
-                              height: 120.0,
-                              decoration: BoxDecoration(
-                                color: kSecondaryColor,
-                                borderRadius: BorderRadius.circular(15.0),
-                              ),
-                            ),
-                          ),
-                          Padding(
-                            padding: const EdgeInsets.fromLTRB(
-                                20.0, 110.0, 20.0, 20.0),
-                            child: Text(
-                              '#Atmanirbharbharat',
-                              style: TextStyle(
-                                fontFamily: 'Times New Roman',
-                                color: kTextColor,
-                                fontSize: 25.0,
-                                fontWeight: FontWeight.bold,
-                              ),
-                              textAlign: TextAlign.center,
-                            ),
-                          ),
-                        ],
+    return WillPopScope(
+      onWillPop: () async {
+        final value = await showDialog<bool>(
+            context: context,
+            builder: (context) {
+              return AlertDialog(
+                content: Text(
+                  'Are you sure you want to exit?',
+                  style: TextStyle(
+                    color: Colors.black,
+                    fontFamily: 'Aclonica',
+                    fontSize: 20.0,
+                  ),
+                ),
+                actions: <Widget>[
+                  FlatButton(
+                    child: Text(
+                      'No',
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontFamily: 'Aclonica',
+                        fontSize: 20.0,
                       ),
                     ),
-                    for (int j = 0; j < 25; j++) category(j),
-                  ],
+                    onPressed: () {
+                      Navigator.of(context).pop(false);
+                    },
+                  ),
+                  FlatButton(
+                    child: Text(
+                      'Yes, exit',
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontFamily: 'Aclonica',
+                        fontSize: 20.0,
+                      ),
+                    ),
+                    onPressed: () {
+                      Navigator.of(context).pop(true);
+                    },
+                  ),
+                ],
+              );
+            });
+
+        return value == true;
+      },
+      child: Scaffold(
+        drawer: MyDrawer(),
+        body: NotificationListener<ScrollNotification>(
+          onNotification: scrollListener,
+          child: Container(
+            height: double.infinity,
+            child: Stack(
+              children: <Widget>[
+                SingleChildScrollView(
+                  child: Column(
+                    children: <Widget>[
+                      Container(
+                        height: size.height * 0.38,
+                        child: Stack(
+                          children: <Widget>[
+                            Container(
+                              height: size.height * 0.4 - 95,
+                              decoration: BoxDecoration(
+                                color: kPrimaryColor,
+                                borderRadius: BorderRadius.only(
+                                  bottomRight: Radius.circular(100.0),
+                                ),
+                                boxShadow: [
+                                  BoxShadow(
+                                    offset: Offset(0, 10),
+                                    blurRadius: 50,
+                                    color: kPrimaryColor.withOpacity(0.23),
+                                  ),
+                                ],
+                              ),
+                            ),
+                            Padding(
+                              padding: const EdgeInsets.fromLTRB(
+                                  15.0, 140.0, 15.0, 15.0),
+                              child: Container(
+                                child: Stack(
+                                  children: <Widget>[
+                                    Padding(
+                                      padding: const EdgeInsets.fromLTRB(
+                                          20.0, 50.0, 20.0, 20.0),
+                                      child: Container(
+                                        alignment: Alignment.center,
+                                        child: TypeAheadField(
+                                          textFieldConfiguration:
+                                              TextFieldConfiguration(
+                                            controller: typeAheadController,
+                                            autofocus: false,
+                                            cursorColor: kPrimaryColor,
+                                            style: DefaultTextStyle.of(context)
+                                                .style
+                                                .copyWith(
+                                                    fontSize: 20.0,
+                                                    color: Colors.black,
+                                                    fontFamily: 'Aclonica',
+                                                    decoration:
+                                                        TextDecoration.none),
+                                            decoration: InputDecoration(
+                                              border: OutlineInputBorder(),
+                                            ),
+                                            maxLines: 1,
+                                          ),
+                                          suggestionsCallback: (pattern) async {
+                                            return catName
+                                                .where((item) => item
+                                                    .toLowerCase()
+                                                    .startsWith(
+                                                        pattern.toLowerCase()))
+                                                .toList();
+                                          },
+                                          itemBuilder: (context, suggestion) {
+                                            return ListTile(
+                                              leading:
+                                                  Icon(Icons.label_important),
+                                              title: Text(
+                                                suggestion,
+                                                style: TextStyle(
+                                                  fontFamily: 'Aclonica',
+                                                  color: Colors.black,
+                                                ),
+                                              ),
+                                            );
+                                          },
+                                          onSuggestionSelected: (suggestion) {
+                                            Navigator.push(
+                                                context,
+                                                MaterialPageRoute(
+                                                  builder: (context) =>
+                                                      LoadJson(
+                                                          value:
+                                                              catName.indexOf(
+                                                                  suggestion)),
+                                                ));
+                                          },
+                                        ),
+                                        height: 55.0,
+                                        decoration: BoxDecoration(
+                                          color: kBackgroundColor,
+                                          borderRadius:
+                                              BorderRadius.circular(5.0),
+                                        ),
+                                      ),
+                                    ),
+                                    Padding(
+                                      padding: const EdgeInsets.fromLTRB(
+                                          22.0, 20.0, 20.0, 15.0),
+                                      child: Text(
+                                        'Search for any Brand Category',
+                                        style: TextStyle(
+                                          fontSize: 15.0,
+                                          fontFamily: 'Aclonica',
+                                          color: kTextColor,
+                                        ),
+                                        textAlign: TextAlign.left,
+                                      ),
+                                    )
+                                  ],
+                                ),
+                                height: 120.0,
+                                decoration: BoxDecoration(
+                                  color: kSecondaryColor,
+                                  borderRadius: BorderRadius.circular(15.0),
+                                ),
+                              ),
+                            ),
+                            Padding(
+                              padding: const EdgeInsets.fromLTRB(
+                                  20.0, 80.0, 20.0, 20.0),
+                              child: Text(
+                                '#आत्मनिर्भरभारत',
+                                style: TextStyle(
+                                  fontFamily: "YatraOne",
+                                  color: kTextColor,
+                                  fontSize: 40.0,
+                                ),
+                                textAlign: TextAlign.center,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      for (int j = 0; j < 17; j++) category(j),
+                    ],
+                  ),
                 ),
-              ),
-              Container(
-                height: 80,
-                child: AnimatedBuilder(
-                  animation: colorAnimationController,
-                  builder: (context, child) => buildAppBar(),
+                Container(
+                  height: 80,
+                  child: AnimatedBuilder(
+                    animation: colorAnimationController,
+                    builder: (context, child) => buildAppBar(),
+                  ),
                 ),
-              ),
-            ],
+              ],
+            ),
           ),
         ),
       ),
@@ -355,70 +344,19 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
     return AppBar(
       backgroundColor: colorTween.value,
       elevation: 0,
-      // leading: IconButton(
-      //   onPressed: () {
-      //     Navigator.push(
-      //         context,
-      //         MaterialPageRoute(
-      //           builder: (context) =>
-      //               Drawer(),
-      //         ));
-      //   },
-      //   icon: Icon(
-      //     Icons.menu,
-      //   ),
-      // ),
       titleSpacing: 0.0,
-      title: Padding(
-        padding: const EdgeInsets.all(10.0),
-        child: Text(
-          'The Brand Dictionary',
-          textAlign: TextAlign.left,
-          style: TextStyle(
-            color: iconColorTween.value,
-          ),
+      title: Text(
+        'BD',
+        textAlign: TextAlign.left,
+        style: TextStyle(
+          color: iconColorTween.value,
+          fontFamily: 'AbrilFatface',
+          fontSize: 25.0,
         ),
       ),
       iconTheme: IconThemeData(
         color: iconColorTween.value,
       ),
-//       actions: <Widget>[
-//         IconButton(
-//           icon: Icon(
-//             Icons.local_grocery_store,
-//           ),
-//           onPressed: () {
-// //                          Navigator.of(context).push(TutorialOverlay());
-//           },
-//         ),
-//         IconButton(
-//           icon: Icon(
-//             Icons.more_vert,
-//           ),
-//           onPressed: () {},
-//         ),
-//       ],
     );
   }
 }
-
-// TextField(
-//                                         onChanged: (value) {},
-//                                         decoration: InputDecoration(
-//                                             // hintText: 'Search Now...',
-//                                             enabledBorder: InputBorder.none,
-//                                             focusedBorder: InputBorder.none,
-//                                             suffixIcon: Icon(
-//                                               Icons.search,
-//                                             ),
-//                                             contentPadding:
-//                                                 EdgeInsets.symmetric(
-//                                               horizontal: 20.0,
-//                                               vertical: 8.0,
-//                                             )),
-//                                         style: TextStyle(
-//                                           color: Colors.black,
-//                                           fontFamily: 'Times New Roman',
-//                                           fontSize: 20.0,
-//                                         ),
-//                                       ),
